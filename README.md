@@ -1,2 +1,2 @@
-# demo_project_softuni
+# demo_project
 Demo project for Softuni
